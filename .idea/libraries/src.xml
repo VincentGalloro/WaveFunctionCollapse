@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Velvet/out/production/Velvet" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Velvet/src" />
+    </SOURCES>
+  </library>
+</component>
